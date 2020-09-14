@@ -6,4 +6,4 @@ initializing lauching to mongoDB, Express as framework cascading "ejs" App.get /
 .Express frame-work
 
 # Methodology
-async template utilized for subscribers.js
+async template utilized for subscribers.js aligned with app.js
